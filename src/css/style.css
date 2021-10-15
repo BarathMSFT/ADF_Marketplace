@@ -1,0 +1,445 @@
+.navbarMy
+{
+	
+background-color: #0275d8;
+color:#fff;
+position: absolute;
+height: 40px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+}
+
+.card
+{
+	/* Clickable Card */
+
+/* Auto Layout */
+display: flex;
+width: 50px;
+height: 19px;
+
+flex-direction: column;
+align-items: flex-start;
+padding: 12px;
+
+position: absolute;
+left: 90px;
+top: 588px;
+
+background: #FFFFFF;
+/* card shadow */
+box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.14), 0px 0px 2px rgba(0, 0, 0, 0.12);
+border-radius: 4px;
+
+
+/* Header */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: static;
+width: 226px;
+height: 20px;
+left: 12px;
+top: 12px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 4px 0px;
+
+
+/* Subtitle-top */
+
+position: static;
+display: none;
+width: 65px;
+height: 16px;
+left: 0px;
+top: 0px;
+
+font-family: Hind;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+
+/* Light Theme / Text colors / Secondary */
+color: #605E5C;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 2px 0px;
+
+
+/* Title */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 97px;
+height: 20px;
+left: 0px;
+top: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 2px 0px;
+
+
+/* Title text */
+
+position: static;
+width: 214px;
+height: 20px;
+left: 0px;
+top: 0px;
+
+font-family: Hind;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+/* Light Theme / Text colors / Primary */
+color: #323130;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 4px;
+
+
+/* Info Bubble */
+
+position: static;
+width: 12px;
+height: 12px;
+left: 218px;
+top: 4px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 4px;
+
+
+/* Info glyph */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Info */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Neutral Color / Grey 130 */
+background: #605E5C;
+
+
+/* Subtitle-bottom */
+
+position: static;
+display: none;
+width: 65px;
+height: 16px;
+left: 0px;
+top: 39px;
+
+font-family: Hind;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+
+/* Light Theme / Text colors / Secondary */
+color: #605E5C;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 2px 0px;
+
+
+/* Body */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: static;
+width: 226px;
+height: 20px;
+left: 12px;
+top: 36px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: 4px 0px;
+
+
+/* Count */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 162px;
+height: 20px;
+left: 0px;
+top: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 0px;
+
+
+/* Database */
+
+position: static;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 2px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 4px;
+
+
+/* ffae260c bd32 482a b89e 57ae596cebe3 */
+
+position: absolute;
+left: 12.41%;
+right: 12.41%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.41%;
+right: 12.41%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.41%;
+right: 12.41%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.41%;
+right: 12.41%;
+top: 13.57%;
+bottom: 0%;
+
+background: linear-gradient(90.17deg, #005BA1 0.25%, #0060A9 7.01%, #0071C8 35.66%, #006ABB 81.8%, #005BA1 99.71%);
+
+
+/* Vector */
+
+position: absolute;
+left: 12.59%;
+right: 12.41%;
+top: 0%;
+bottom: 72.68%;
+
+background: #E6E6E6;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.35%;
+right: 21.16%;
+top: 3.89%;
+bottom: 78.76%;
+
+background: #50E6FF;
+
+
+/* Vector */
+
+position: absolute;
+left: 27.31%;
+right: 27.13%;
+top: 14.53%;
+bottom: 78.74%;
+
+background: #198AB3;
+
+
+/* Group */
+
+position: absolute;
+left: 24.86%;
+right: 23.4%;
+top: 44.77%;
+bottom: 26.51%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 24.86%;
+right: 49.71%;
+top: 44.79%;
+bottom: 26.51%;
+
+background: #F2F2F2;
+
+
+/* Vector */
+
+position: absolute;
+left: 55.06%;
+right: 23.4%;
+top: 44.77%;
+bottom: 26.53%;
+
+background: #F2F2F2;
+
+
+/* Count subtitle */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: static;
+width: 162px;
+height: 16px;
+left: 20px;
+top: 2px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 4px;
+
+
+/* 238 people are using this */
+
+position: static;
+width: 128px;
+height: 16px;
+left: calc(50% - 128px/2 - 17px);
+top: calc(50% - 16px/2);
+
+font-family: Hind;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+
+/* Light Theme / Text colors / Secondary */
+color: #605E5C;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 0px;
+
+
+/* Connect to your SAP ECC to bring SAP Lead to Order data into Synapse. */
+
+position: static;
+width: 226px;
+height: 47px;
+left: 12px;
+top: 60px;
+
+font-family: Hind;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 16px;
+/* or 133% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 4px 0px;
+
+}
